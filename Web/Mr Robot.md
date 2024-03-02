@@ -1,5 +1,5 @@
 # Mr Robot
-Difficulty:  Intermediate <br>
+Difficulty:  Easy <br>
 Fsociety has been attacked and information has been stolen, can you find the directory containing the flag?
 # Solution
 
