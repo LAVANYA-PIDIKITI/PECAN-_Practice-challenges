@@ -1,5 +1,5 @@
 # Lamb Source 1
-Difficulty: 
+Difficulty: Easy <br>
 It seems like the chefs have delayed the next orders going out by forgetting the lamb sauce. Can you find it on this page to prevent any further screaming from Chef Ramsay and risk of elimination?
 
 # Solution:
